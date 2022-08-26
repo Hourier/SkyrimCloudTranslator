@@ -1,0 +1,1 @@
+﻿This is dummy. Please input the authentication key of DeepL API.
